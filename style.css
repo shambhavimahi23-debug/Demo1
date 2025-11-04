@@ -1,0 +1,15 @@
+.exterstlye {
+      background-color: rgb(25, 19, 211);
+      border: 2px solid rgb(25, 19, 211);
+      color: rgb(25, 19, 211);
+    }
+    #heading1 {
+        text-align: center;
+        color: blueviolet;
+    }
+    #link1,#link2,#link3,#link4 {
+        text-decoration: none;
+    }
+    #outerbox{
+        color:blueviolet
+    }
